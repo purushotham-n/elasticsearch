@@ -1,6 +1,7 @@
 {
   "name": "elasticsearch/elasticsearch",
   "description": "PHP Client for Elasticsearch",
+  "version": "v7.17.2",
   "keywords": ["search","client", "elasticsearch"],
   "type": "library",
   "license": [
